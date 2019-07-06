@@ -1,6 +1,6 @@
 # AlphaGooo-git
 - [异常处理.md](files/异常处理.md)  - 一些常见但又容易忘记怎么处理的异常
-
+- [忽略文件权限差异](files/忽略文件权限差异.md) - 处理因为系统权限变更导致的异常
 
 
 ## 基础命令
@@ -42,6 +42,5 @@
 
   * git checkout v2.0 检出版本v2.0
 
-    ​
 
-    参考网址：https://gist.github.com/guweigang/9848271
+  ---> 参考网址：https://gist.github.com/guweigang/9848271
