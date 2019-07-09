@@ -1,6 +1,7 @@
 # AlphaGooo-git
 - [异常处理.md](files/异常处理.md)  - 一些常见但又容易忘记怎么处理的异常
 - [忽略文件权限差异](files/忽略文件权限差异.md) - 处理因为系统权限变更导致的异常
+- [Markdown语法](files/Markdown基本语法.md) - 关于Markdown基本语法的讨论
 
 
 ## 基础命令
